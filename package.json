@@ -1,0 +1,42 @@
+{
+  "name": "beneath-the-surface",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Beneath The Surface: A Game Hackathon Finish in Campfire Hackclub Ogbomoso Event 2026",
+  "keywords": [
+    "Campfire",
+    "Hackathon",
+    "project",
+    "hawk",
+    "Major",
+    "Hack",
+    "Hackclub",
+    "first",
+    "deploy"
+  ],
+  "homepage": "https://github.com/gideonayanwale/beneaththesurface#readme",
+  "bugs": {
+    "url": "https://github.com/gideonayanwale/beneaththesurface/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gideonayanwale/beneaththesurface.git"
+  },
+  "license": "ISC",
+  "author": "Gideon Inioluwa Ayanwale",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "node ./node_modules/typescript/bin/tsc --noEmit"
+  },
+  "dependencies": {
+    "phaser": "^3.80.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0"
+  }
+}
