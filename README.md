@@ -6,7 +6,7 @@ A 2D underwater exploration + survival adventure. Built for **itch.io** using [P
 
 ---
 
-##Full Guide on How To PLsy
+## Full Guide on How To Play
 ## 🎮 Controls
 
 | Key | Action |
