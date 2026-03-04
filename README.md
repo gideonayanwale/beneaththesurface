@@ -6,6 +6,7 @@ A 2D underwater exploration + survival adventure. Built for **itch.io** using [P
 
 ---
 
+##Full Guide on How To PLsy
 ## 🎮 Controls
 
 | Key | Action |
@@ -131,20 +132,6 @@ Auto-detected via touch events. Touch overlay appears:
 Build output is in `dist/`. Upload as a zip with `index.html` included.  
 Game is self-contained — no server required.
 
----
-
-## 👥 Agent Team
-
-| Agent | Role |
-|-------|------|
-| Director | Vision, tone, pacing |
-| Mechanics Engineer | Submarine physics, buoyancy, resources |
-| Level Designer | 5 zones, enemy config, collectible placement |
-| Audio Artisan | Synth engine, SFX, ambient drones |
-| UI/UX Engineer | HUD, menus, touch overlay |
-| Performance Specialist | Particle limits, 60fps mobile |
-| Project Manager | Timeline, milestones |
-| Marketing | itch.io ready packaging |
 
 ---
 
